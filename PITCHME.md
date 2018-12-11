@@ -7,6 +7,15 @@
 ![](assets/img/presentation.png)
 
 ---
+
+## Ceci est un essai
+
+```python
+for i in range(10):
+    print("Hello world!")
+```
+
+---
 @title[Customize Slide Layout]
 
 @snap[west span-50]
