@@ -7,7 +7,7 @@
 ![](assets/img/presentation.png)
 
 ---
-@snap[north span-100]
+@snap[north span-100 headline]
 ## Ceci est un essai
 @snapend
 
